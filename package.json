@@ -32,7 +32,7 @@
     "helmet": "^3.21.2",
     "html-entities": "^1.2.0",
     "jsonschema": "^1.2.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lunr": "^2.3.8",
     "mime-type": "^3.0.7",
     "mkdirp": "^0.5.1",
